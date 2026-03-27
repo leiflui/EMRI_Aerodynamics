@@ -22,7 +22,7 @@
 (*(*Define Parameters*)*)
 (*a=0.9;*)
 (*plist=Range[5,30,2.5];*)
-(*elist=Range[0.000001,0.8,0.075];*)
+(*elist=Range[0.000001,0.9,0.075];*)
 (*slist={0.0,0.25}; (*We need this in post-processing*)*)
 (*x=0.99999;*)
 (*lmax=10;*)
