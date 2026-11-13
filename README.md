@@ -1,2 +1,2 @@
-# EMRI_Aerodynamics
-This project explores the aerodynamical on an EMRI with a spinning secondary due to a gaseous environment.
+# EMRI Aerodynamics
+This GitHub repository stores the flux data produced in [Phys. Rev. Lett. 137, 121403 (2026)](https://doi.org/10.1103/dy3h-65ty).
